@@ -244,16 +244,7 @@ My interests include **ETL pipelines, data visualization, AI/ML, computer vision
 
 ---
 
-# 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anu-ranjana&show_icons=true&theme=tokyonight" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu-ranjana&layout=compact&theme=tokyonight" width="48%" />
-
-</div>
----
 
 # 🔥 GitHub Streak
 
