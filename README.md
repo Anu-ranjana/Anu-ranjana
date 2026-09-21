@@ -24,60 +24,164 @@ My interests include **ETL pipelines, data visualization, AI/ML, computer vision
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Programming Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js" height="55"/>
-</p>
+<table>
+<tr>
 
----
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b>
+</td>
 
-## 🌐 Web Development
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
+</td>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="55"/>
-</p>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b>
+</td>
 
----
-
-## 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" height="55"/>
-</p>
-
-**Machine Learning • Computer Vision • Object Detection • AI Applications**
-
----
-
-## 📊 Data Engineering & Analytics
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" height="55"/>
-</p>
-
-**Databricks • Apache Spark • PySpark • Power BI • SQL • ETL • Data Visualization**
+</tr>
+</table>
 
 ---
 
-## 🗄️ Databases
+### 🌐 Web Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="55"/>
-</p>
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML5</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS3</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="55"/><br>
+<b>JavaScript</b>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🔧 Tools & Technologies
+### 🤖 AI / Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,dotnet" height="55"/>
-</p>
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="55"/><br>
+<b>OpenCV</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/ultralytics/111111" width="55"/><br>
+<b>YOLOv8</b>
+</td>
+
+</tr>
+</table>
+
+**Computer Vision • Object Detection • AI Applications**
 
 ---
 
+### 📊 Data Engineering & Analytics
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/databricks/FF3621" width="55"/><br>
+<b>Databricks</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/apachespark/E25A1C" width="55"/><br>
+<b>Apache Spark</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/python/3776AB" width="55"/><br>
+<b>PySpark</b>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="55"/><br>
+<b>Power BI</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<b>SQL / MySQL</b>
+</td>
+
+</tr>
+</table>
+
+**ETL • Medallion Architecture • Data Cleaning • Data Visualization**
+
+---
+
+### 🗄️ Database
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<b>MySQL</b>
+</td>
+
+</tr>
+</table>
+
+---
+
+### 🔧 Tools & Technologies
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dotnet" width="55"/><br>
+<b>.NET</b>
+</td>
+
+</tr>
+</table>
 # 🚀 Projects
 
 ## 📊 Sales Analytics Dashboard
